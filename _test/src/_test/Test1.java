@@ -7,5 +7,6 @@ public class Test1 {
 		String s = "abx";
 		System.out.println(s);
 		System.out.println("hello world!");
+		System.out.println("hello world,welcome!");
 	}
 }
